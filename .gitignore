@@ -1,0 +1,38 @@
+# AutoHotkey
+*.exe
+*.bin
+
+# Windows shortcuts created by installer
+*.lnk
+
+# Editor backups and temp files
+*.bak
+*.tmp
+*.swp
+*~
+.*.swp
+
+# VS Code
+.vscode/
+
+# IDE files
+*.suo
+*.user
+*.sln.docstates
+.idea/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# macOS (in case someone clones there)
+.DS_Store
+.AppleDouble
+.LSOverride
