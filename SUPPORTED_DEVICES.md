@@ -9,6 +9,7 @@ These devices have been tested and confirmed working with this fix:
 | Brand | Model | Key Replaced | Status |
 |-------|-------|-------------|--------|
 | ASUS | Zenbook S 16 (UM5606) | Right Ctrl | Verified |
+| Lenovo | IdeaPad Slim 5 (15ARP10) | Right Ctrl | Verified |
 
 ## Likely Compatible
 
